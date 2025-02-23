@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Projetos_Intensivao_java_Spring\dslist"/>
 			<item value="C:\Projetos_Intensivao_java_Spring\dslist-backend"/>
 		</list>
 		<list key="projectNameTemplate">
